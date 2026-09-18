@@ -1,0 +1,53 @@
+name: Basic
+version: 1.0
+main: club.mineman.basic.Basic
+authors: [tehneon, leftbooob]
+description: Minemen's core plugin with most essential commands.
+website: minemen.club
+
+commands:
+  msg:
+    description: Send a private message to another player.
+    usage: /msg <player> <message>
+    aliases: [tell, message, whisper, w, pm]
+  buy:
+    description: Display the store link.
+    usage: /buy
+  store:
+    description: Display the store link.
+    usage: /store
+  discord:
+    description: Display the discord link.
+    usage: /discord
+  ping:
+    description: Get your ping.
+    usage: /ping
+  twitter:
+    description: Display the twitter link.
+    usage: /twitter
+  website:
+    description: Display the website link.
+    usage: /website
+  youtube:
+    description: Display the youtube link.
+    usage: /youtube
+  reply:
+    description: Shortcut to reply to a message.
+    usage: /reply
+  r:
+    description: Shorter shortcut to reply to a message.
+    usage: /r
+  settings:
+    description: Opens the settings menu.
+    usage: /settings
+    aliases: [preferences]
+  changelog:
+    description: Opens the changelog menu.
+    usage: /changelog
+    aliases: [news]
+  tiktok:
+    description: Display the tiktok link.
+    usage: /tiktok
+  join:
+    description: Joins a server.
+    usage: /join <server>

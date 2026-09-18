@@ -1,0 +1,12 @@
+# MongoDB Configuration
+mongodb:
+  host: localhost
+  port: 27017
+  database: mineman
+  username: ""
+  password: ""
+  auth-enabled: false
+
+# Settings
+settings:
+  save-interval: 300
