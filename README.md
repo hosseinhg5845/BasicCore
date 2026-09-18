@@ -3,8 +3,8 @@
 > MMC BasicCore Plugin 
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.8-green)
-![ClubSpigot](https://img.shields.io/badge/Platform-ClubSpigot-%23AA00FF)
 ![Minecraft](https://img.shields.io/badge/Minecraft-Spigot-orange)
+![ClubSpigot](https://img.shields.io/badge/Platform-ClubSpigot-%23AA00FF)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![MinemenClub](https://img.shields.io/badge/Server-MinemenClub-%23AA00FF)
 
